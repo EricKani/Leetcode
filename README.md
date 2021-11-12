@@ -11,3 +11,4 @@ Leetcode 刷题记录
 |index| name| difficulty|
 |----|----|----|
 |[Solution 1344](https://github.com/EricKani/Leetcode/blob/master/Solution_1344.py)|时钟指针夹角|medium
+|[Solution_13](https://github.com/EricKani/Leetcode/blob/master/Solution_13.py)|罗马数字转数值|easy
