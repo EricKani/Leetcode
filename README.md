@@ -17,4 +17,9 @@ Leetcode 刷题记录
 ## Array
 |index| name| difficulty|1st |2nd |comment|
 |----|  ----|       ----|----|----|---- |
-|[Solution 11](https://github.com/EricKani/Leetcode/blob/master/Solution_11.py)|水池最大存水量|medium|Time Limit Extended| |for不如while？
+|[Solution 11](https://github.com/EricKani/Leetcode/blob/master/Solution_11.py)|水池最大存水量|medium|N/Time Limit Extended| |for不如while？
+
+## String
+|index| name| difficulty|1st |2nd |comment|
+|----|  ----|       ----|----|----|---- |
+|[Solution 17](https://github.com/EricKani/Leetcode/blob/master/Solution_17.py)|电话数字字母组合|medium|Y| |
