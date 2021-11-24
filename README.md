@@ -23,3 +23,8 @@ Leetcode 刷题记录
 |index| name| difficulty|1st |2nd |comment|
 |----|  ----|       ----|----|----|---- |
 |[Solution 17](https://github.com/EricKani/Leetcode/blob/master/Solution_17.py)|电话数字字母组合|medium|Y| |
+
+## Dynamic Programming
+|index| name| difficulty|1st |2nd |comment|
+|----|  ----|       ----|----|----|---- |
+|[Solution 53](https://github.com/EricKani/Leetcode/blob/master/Solution_53.py)|找和最大的子矩阵|easy|N| |智商被碾压
