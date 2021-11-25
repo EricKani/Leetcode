@@ -29,3 +29,4 @@ Leetcode 刷题记录
 |----|  ----|       ----|----|----|---- |
 |[Solution 53](https://github.com/EricKani/Leetcode/blob/master/Solution_53.py)|找和最大的子矩阵|easy|N| |智商被碾压
 |[Solution 70](https://github.com/EricKani/Leetcode/blob/master/Solution_70.py)|爬楼梯|easy|N/AC| |子问题很重要
+|[Solution 118](https://github.com/EricKani/Leetcode/blob/master/Solution_118.py)|Pascal's triangle|easy|Y| |DP问题：初始结果+遍历
