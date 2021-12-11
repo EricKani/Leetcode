@@ -26,6 +26,7 @@ Leetcode 刷题记录
 |index| name| difficulty|1st |2nd |comment|
 |----|  ----|       ----|----|----|---- |
 |[Solution_88](https://github.com/EricKani/Leetcode/blob/master/Solution_88.py)|合并两个有序array|easy|AC| |就是不太优雅
+|[Solution_169](https://github.com/EricKani/Leetcode/blob/master/Solution_169.py)|找出现次数过半的数字|easy|AC/N| |目前流氓写法 sorted; good question
 
 ## Depth-First Search
 |index| name| difficulty|1st |2nd |comment|
